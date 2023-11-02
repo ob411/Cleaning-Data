@@ -4,4 +4,4 @@ The values in the 're' and 'le' columns range from 'normal', 'mild hearing loss'
 
 The 'be' column has no values and is to be computed from the 're' and 'le' column, it should state 'normal' if both 're' and 'le' says normal, 'mild' if both 're' and 'le' are 'mild hearing loss', moderate and severe if both 're' and 'le' columns both state 'moderate hearing loss' and 'severe hearing loss' respectively, any values outside of those would be represented as 'other'.
 
-The objective is to populate the 'be' column after which the dataset can be analysed to give a comprehensive report on the state of the patients hearing.
+The objective is to populate the 'be' column after which the dataset can be analysed to give a comprehensive report on the state of patients hearing.
